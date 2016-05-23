@@ -1,0 +1,12 @@
+name = "ACD Arma3 Containers & Decorations";
+picture = "acd.paa";
+actionName = "GitHub";
+action = "https://github.com/vitalymind/CompoT";
+description = "CompoT version dev";
+logo = "logo_compot_dev.paa";
+logoOver = "logo_compot_dev.paa";
+tooltip = "CompoT";
+tooltipOwned = "CompoT";
+overview = "Object placement and manipulation toolset with randomization capabilities. Designed for seamless integration into other mods/toolsets. This is dev build, latest features and bugs on board";
+author = "vitaly 'mind' chizhikov";
+overviewPicture = "logo_compot_dev.paa";

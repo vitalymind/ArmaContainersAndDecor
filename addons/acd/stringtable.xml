@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Project name="armaContainersAndDecorations">
+	<Package name="main_package">
+		<Container name="main_container">
+			<Key ID="STR_acd_nothingSelected">
+				<Original>There are no objects selected.</Original>
+				<English>There are no objects selected.</English>
+			</Key>
+			<Key ID="STR_acd_scriptExportedVehicle">
+				<Original>CreateVehicle script exported to clipboard.</Original>
+				<English>CreateVehicle script exported to clipboard.</English>
+			</Key>
+			<Key ID="STR_acd_scriptExportedSimple">
+				<Original>CreateSimpleObject script exported to clipboard.</Original>
+				<English>CreateSimpleObject script exported to clipboard.</English>
+			</Key>
+			<Key ID="STR_acd_exportSimple">
+				<Original>as simpleObject</Original>
+				<English>as simpleObject</English>
+			</Key>
+			<Key ID="STR_acd_exportVehicle">
+				<Original>as createVehicle</Original>
+				<English>as createVehicle</English>
+			</Key>
+			<Key ID="STR_acd_exportScript">
+				<Original>Export to script</Original>
+				<English>Export to script</English>
+			</Key>
+			<Key ID="STR_acd_simulationOn">
+				<Original>Simulation on</Original>
+				<English>Simulation on</English>
+			</Key>
+			<Key ID="STR_acd_simulationOff">
+				<Original>Simulation off</Original>
+				<English>Simulation off</English>
+			</Key>
+		</Container>
+	</Package>
+</Project>
