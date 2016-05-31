@@ -19,8 +19,7 @@ not be destroyed.
 It is worth mentioning, addon have all trees, bushes, rocks and flowers, in case if someone 
 wish to make a nice looking garden in their mission :)
 
-In addition, you will find adc_Namalsk.pbo in optional folders. It will add 135 decoration items
-and 28 containers. Those vehecles use models found in namalsk map for Arma3 https://forums.bistudio.com/topic/188868-namalsk-for-arma-3/
+Also, there are CUP and Namalsk addons, 1000 decorations and 300 containers in total.
 
 #INSTALLATION
 
@@ -29,15 +28,6 @@ It should not be optional, otherwise clients without mod will not see objects.
 
 -Place "@acd" folder in your arma3 root folder.
 
-#OPTIONAL
-
-Servers with Namalsk map may require you to have acd_Namalsk.pbo as well,
-it is found in "@acd\optional\" folder, copy paste it into "@acd\addons\" folder.
-
-#PLANS
-
-I have plans to include objects from AIA/CUP, this is hard thing to do due to amount of models.
-If you feel like helping me in this work, send me PM here.
 
 #LICENCE
 
